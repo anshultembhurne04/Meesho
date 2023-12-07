@@ -3,4 +3,5 @@ CRUD operation
 Create ---- Create a database 
 Read ----- Read(select)
 Update ---- Update the data base
-Delete ---- Delete the database           Bhushan Pol
+Delete ---- Delete the database           Bhushan 
+E R Model Entity relational model it is a model used to explain typical model in table design -anshul tembhurne
